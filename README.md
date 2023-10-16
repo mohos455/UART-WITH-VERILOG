@@ -9,6 +9,7 @@ ASMD
 ![image](https://github.com/mohos455/UART-WITH-VERILOG/assets/106884579/2d52fbaf-1c02-4eb5-9bb9-149516be12c4)
 
 UART TRANSMITTER 
+
 ![image](https://github.com/mohos455/UART-WITH-VERILOG/assets/106884579/584ce50e-0c59-459b-8071-9344deaa5c27)
 
 ASMD
